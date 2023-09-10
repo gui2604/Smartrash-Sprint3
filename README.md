@@ -25,7 +25,7 @@ Essa capacidade é viabilizada pelo fato de que a Smart Trash é apta a coletar 
 </ul>
 
 <h3>Instruções, dependências e requisitos</h3>
-<ul><h5>Requisitos Funcionais</h5>
+<ul><h4>Requisitos Funcionais</h4>
   <li>A lixeira deverá ser capaz de obter e medir o peso do lixo depositado em seu interior.</li>
   <li>A lixeira deverá ser capaz de traduzir o peso medido para visualização em LED’s (verde, amarelo, laranja e vermelho).</li>
   <li>A lixeira deverá ser capaz de detectar o nível, ou seja, a altura do lixo atingido.</li>
@@ -34,13 +34,13 @@ Essa capacidade é viabilizada pelo fato de que a Smart Trash é apta a coletar 
   <li>A lixeira deverá alertar visualmente com um LED amarelo piscante quando ela atingir sua lotação.</li>
   <li>A lixeira devera ter resistencia contra a oxidação e à choques mecânicos.</li>
 </ul>
-<ul><h5>Requisitos Não-Funcionais</h5>
+<ul><h4>Requisitos Não-Funcionais</h4>
   <li>A lixeira deverá ser vazada para que não ocorra o acúmulo de líquidos interferindo significativamente na medição do peso do lixo depositado.</li>
   <li>A lixeira deverá possuir uma comunicação eficiente, transmitindo informações para a central em tempo real.</li>
   <li>A lixeira deverá ser capaz de intergir presencialmente com usuários, transmitindo-lhes informações visuais sobre os dados coletados do lixo.</li>
   <li>A lixeira devera ser resistente mecanicamente e quimicamente aos efeitos naturais.</li>
 </ul>
-<ul><h5>Regras de Negócio</h5>
+<ul><h4>Regras de Negócio</h4>
   <li>A lixeira não poderá ultrapassar 1500kg de capacidade de peso, tendo em vista a restrição de acúmulo de lixo depositado, e o comprometimento da estrutura de sustentação da lixeira.</li>
   <li>A lixo depositado não podera ultrapassar 70% do preenchimento de saturação da borda da lixeira, visto o risco de transposição da borda devido à lotação.</li>
   <li>O timer deverá ser resetado a zero, se, e somente se, o conteúdo depositado na lixeira após a lotação seja retirado e o peso seja reduzido a menos de 10% da capacidade máxima, juntamente com menos de 20% dos sensores de detecção de lixo na borda não estarem detectando lixo depositado.</li>

@@ -5,3 +5,7 @@ Com todas essas considerações, o grupo concebeu o projeto da Lixeira Inteligen
 Essa capacidade é viabilizada pelo fato de que a Smart Trash é apta a coletar e transmitir dados em tempo real a partir de diversos pontos de coleta espalhados pela cidade. Comparado ao antigo sistema que se baseava em médias de produção de resíduos ao longo do tempo, esse mecanismo é significativamente mais eficiente, permitindo análises mais precisas e, assim, a concepção de soluções mais bem planejadas. Isso, por sua vez, utiliza a tecnologia para aproximar as cidades da dinâmica esperada em Cidades Inteligentes.
 </p>
 
+<h2>Arquitetura do Projeto</h2>
+<div align="center">
+  <img src="![IoTsketch](https://github.com/gui2604/Smartrash-Sprint3/assets/128194162/da070817-de03-40d9-a613-29fba9c2cec1)" width="300px">
+</div>

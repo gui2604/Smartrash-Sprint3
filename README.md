@@ -48,5 +48,5 @@ Essa capacidade é viabilizada pelo fato de que a Smart Trash é apta a coletar 
 <h3>Diagrama de Caso de Uso</h3>
 <p>Representação do funcionamento do ecossistema da Smart Trash com diagrama de caso de uso:</p>
 <div>
-  <img src="" width="300px">
+  <img src="https://github.com/gui2604/Smartrash-Sprint3/assets/128194162/630d2d90-2b38-41ee-b1e6-4214fd24c00d" width="300px">
 </div>

@@ -7,5 +7,5 @@ Essa capacidade é viabilizada pelo fato de que a Smart Trash é apta a coletar 
 
 <h2>Arquitetura do Projeto</h2>
 <div align="center">
-  <img src="![IoTsketch](https://github.com/gui2604/Smartrash-Sprint3/assets/128194162/da070817-de03-40d9-a613-29fba9c2cec1)" width="300px">
+  <img src="https://github.com/gui2604/Smartrash-Sprint3/assets/128194162/da070817-de03-40d9-a613-29fba9c2cec1" width="300px">
 </div>
